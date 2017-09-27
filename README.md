@@ -33,3 +33,6 @@ Cette liste de référence est inspirée par le travail formidable mené par [Is
 [Agilex / Alexandre Boutin](http://www.agilex.fr/)  
 [Les traducteurs agiles](http://www.les-traducteurs-agiles.org/traductions/)  
 
+* **Photos libres de droit**  
+[Istock](http://www.istockphoto.com/fr)
+
