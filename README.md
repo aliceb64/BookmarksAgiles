@@ -13,7 +13,7 @@ Cette liste de référence est inspirée par le travail formidable mené par [Is
 * **Evènements Scrum**  
 [Comment obtenir des standup qui marchent / Florence Chabanois](https://fr.slideshare.net/foucha/comment-obtenir-des-standup-qui-marchent-agile-france-2016)
 
-* **Kanban**  
+* **Kanban**    
 [Premier Kanban / Jesper Boeg, traduit par Stéphane Wojewoda ](https://www.infoq.com/fr/minibooks/priming-kanban-jesper-boeg#minibookDownload)
 [Essential Kanban Condensed / David Anderson](http://leankanban.com/wp-content/uploads/2016/06/Essential-Kanban-Condensed.pdf)
 [(Video - Conf) Trouvez vos cadences, et faites un pas vers le Continuous Delivery / Anne Gabrillagues](https://www.infoq.com/fr/presentations/trouvez-vos-cadences-et-faites-un-pas-vers-le-continuous-delivery?utm_source=presentations_about_Kanban&utm_medium=link&utm_campaign=Kanban)
