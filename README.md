@@ -17,13 +17,13 @@ Cette liste de référence est inspirée par le travail formidable mené par [Is
 [Premier Kanban / Jesper Boeg, traduit par Stéphane Wojewoda ](https://www.infoq.com/fr/minibooks/priming-kanban-jesper-boeg#minibookDownload)
 [Essential Kanban Condensed / David Anderson](http://leankanban.com/wp-content/uploads/2016/06/Essential-Kanban-Condensed.pdf)
 [(Video - Conf) Trouvez vos cadences, et faites un pas vers le Continuous Delivery / Anne Gabrillagues](https://www.infoq.com/fr/presentations/trouvez-vos-cadences-et-faites-un-pas-vers-le-continuous-delivery?utm_source=presentations_about_Kanban&utm_medium=link&utm_campaign=Kanban)
+[(Video - Conf) Lessons learned from coaching 50+ Kanban teams / Christophe Achouiantz](https://vimeo.com/80980287)
 
 * **Clean code**  
 [Manifesto for software craftmanship](http://manifesto.softwarecraftsmanship.org/#/fr-fr)
 
 * **Management Agile**   
 [Etre manager dans une entreprise agile / Xebia](http://blog.xebia.fr/2016/04/19/etre-manageur-dans-une-entreprise-agile-12/)
-
 
 * **Entreprises libérées**   
 [(Video - Conf) Reinventing Organizations / Frédéric Laloux](https://www.youtube.com/watch?v=NZKqPoQiaDE&feature=youtu.be)  
